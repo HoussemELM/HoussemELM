@@ -9,9 +9,9 @@
   </h1>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HoussemEddineElimam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <a href="https://github.com/HoussemEddineElimam?tab=followers">
-      <img src="https://img.shields.io/github/followers/HoussemEddineElimam?label=Followers&style=social" alt="GitHub followers">
+    <img src="https://komarev.com/ghpvc/?username=HoussemELM&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <a href="https://github.com/HoussemELM?tab=followers">
+      <img src="https://img.shields.io/github/followers/HoussemELM?label=Followers&style=social" alt="GitHub followers">
     </a>
   </p>
 
@@ -32,8 +32,6 @@
 - 👯 Looking to collaborate on **Open Source** and **Data Science** projects
 - 💬 Ask me about **React**, **Node.js**, **Python**, **Flutter**, or **Machine Learning**
 - ⚡ Fun fact: I believe the perfect code is both an art and a science
-
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -128,11 +126,11 @@ Here are some of my public repositories and their tech stacks:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoussemEddineElimam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoussemELM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemEddineElimam&layout=compact&hide_border=true&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemELM&layout=compact&hide_border=true&theme=react" alt="Top Languages" />
 </div>
 
 ---
@@ -152,11 +150,11 @@ Here are some of my public repositories and their tech stacks:
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=HoussemEddineElimam&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HoussemELM&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/HoussemEddineElimam">Houssem Elimam</a></p>
-</div>
+  <p>⭐️ From <a href="https://github.com/HoussemELM">Houssem Elimam</a></p>
+</div>>
