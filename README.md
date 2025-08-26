@@ -121,13 +121,7 @@
 
 Here are some of my public repositories and their tech stacks:
 
-| Repository       | Tech Stack      | Last Updated   |
-|------------------|-----------------|----------------|
-| **[grizmo-bay](https://github.com/HoussemEddineElimam/grizmo-bay)** | Blade (Laravel) | Feb 11, 2025   |
-| **[cfa-web](https://github.com/HoussemEddineElimam/cfa-web)** | JavaScript      | Feb 3, 2025    |
-| **[taskmanager-khfff](https://github.com/HoussemEddineElimam/taskmanager-khfff)** | CSS             | Nov 23, 2024   |
-| **[cine-verse](https://github.com/HoussemEddineElimam/cine-verse)** | TypeScript      | Oct 2, 2024    |
-| **[hblog](https://github.com/HoussemEddineElimam/hblog)** | PHP             | Jul 28, 2024   |
+
 
 ---
 
