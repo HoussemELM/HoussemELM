@@ -1,8 +1,8 @@
-# 📊 Houssem Eddine Elimam | Data Scientist | AI Engineer
+# 📊 Houssem Eddine Elimam | Data Scientist & AI Engineer
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+Specialist;Business+Intelligence+Expert;Python+%7C+SQL+%7C+Docker+Expert&center=true&size=25&color=36BCF7)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;AI+Engineer;Machine+Learning+Specialist;Business+Intelligence+Expert;Python+%7C+SQL+%7C+Docker+Expert&center=true&size=25&color=36BCF7)](https://git.io/typing-svg)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=HoussemELM&label=Profile%20views&color=0e75b6&style=flat)
   [![GitHub followers](https://img.shields.io/github/followers/HoussemELM?label=Followers&style=social)](https://github.com/HoussemELM?tab=followers)
