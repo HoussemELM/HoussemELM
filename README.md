@@ -140,7 +140,7 @@ ml_expertise = {
 
 ### 🛠️ MLOps & Infrastructure
 - **🐳 ML Model Containerization** - Docker-based deployment with automated CI/CD pipelines
-- **☁️ Cloud ML Architecture** - Scalable ML solutions on AWS/GCP with monitoring
+- **☁️ Cloud ML Architecture** - Scalable ML solutions on AWS with monitoring
 - **📦 Feature Store Implementation** - Centralized feature management for ML workflows
 - **🔄 Model Monitoring System** - Automated drift detection and retraining pipelines
 
