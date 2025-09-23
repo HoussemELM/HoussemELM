@@ -128,7 +128,6 @@ const fullstack_skills = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -151,15 +150,8 @@ const fullstack_skills = {
 - **⚡ Real-time Analytics Platform** - Streaming data pipeline with Apache Kafka, Spark, and React frontend
 - **🔄 A/B Testing Framework** - Statistical testing platform with automated reporting and web dashboard
 
-### 💻 AI-Powered Web Applications
-- **🌐 ML Model Serving Platform** - React/Node.js application for model deployment and monitoring
-- **📱 Data Visualization Suite** - Flutter mobile app with Python backend for on-the-go analytics
-- **🔍 Intelligent Document Processing** - Full-stack application using OCR and NLP for document analysis
-- **📊 Interactive Data Explorer** - Next.js application with Python API for exploratory data analysis
-
 ### 🛠️ MLOps & DevOps
 - **🐳 ML Model Containerization** - Docker-based deployment with CI/CD pipelines and web monitoring
-- **☁️ Scalable ML Architecture** - AWS-based ML solutions with FastAPI and React frontend
 - **📦 Feature Store Implementation** - Centralized feature management with web interface
 - **🔄 Automated ML Pipeline** - End-to-end workflow with monitoring dashboard
 
